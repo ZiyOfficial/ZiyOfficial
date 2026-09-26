@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake contribution grid" width="700"/>
+<img src="https://github.com/YanzBotz/YanzBotz/blob/main/code.gif" alt="snake contribution grid" width="700"/>
 </p>
 
 <h3 align="center">A developer from Indonesia</h3>
@@ -31,7 +31,6 @@
 - Understand : Indonesia, and English
 
 <br clear="right"/>
-
 
 
 
