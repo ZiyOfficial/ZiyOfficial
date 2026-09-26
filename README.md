@@ -5,9 +5,6 @@
 <b>ZiyOfficial </b> — FROM INDONESIA
 </p>
 
-<p align="center">
-<a href="https://portofoliorexx.vercel.app"><img src="https://readme-typing-svg.demolab.com?size=30&duration=4500&color=51AAFF&center=true&vCenter=true&width=700&lines=CODE+FREE+FOR+ALL+;GUNAKAN+DENGAN+BIJAK!!!;SELAMAT+DATANG+%F0%9F%92%95%F0%9F%8C%B9" alt="Typing SVG"/></a>
-</p>
 
 ---
 
@@ -73,8 +70,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=graphql,postman" height="44" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" alt="OAuth" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtokens/jsonwebtokens-original.svg" alt="JWT" height="44" />
-
+  <img src="https://files.catbox.moe/4x7wf6.png" alt="JWT" height="44" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/api-settings.png" alt="REST API" height="44" />
 </div>
 
 ### DevOps / Cloud / Deployment
