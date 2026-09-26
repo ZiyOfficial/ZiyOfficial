@@ -21,7 +21,7 @@
 
 <img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align="right" alt="Elaina"/>
 
-<img src="./img/AboutMe-elaina.png" width="488" alt="About Me"/>
+<img src="[https://i.ibb.co/T0ch9fG/pp2.png]" width="488" alt="About Me"/>
 
 - Name **ZiyOfficial** 
 
@@ -39,20 +39,68 @@
 
 <br clear="right"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-DAC6C2?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-DAC6C2?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/Node.js-DAC6C2?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-<img src="https://img.shields.io/badge/PHP-DAC6C2?style=for-the-badge&logo=php&logoColor=777BB4"/>
-<img src="https://img.shields.io/badge/Go-DAC6C2?style=for-the-badge&logo=go&logoColor=00ADD8"/>
-<img src="https://img.shields.io/badge/Python-DAC6C2?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<br/>
-<img src="https://img.shields.io/badge/Linux-DAC6C2?style=for-the-badge&logo=linux&logoColor=000000"/>
-<img src="https://img.shields.io/badge/FreeBSD-DAC6C2?style=for-the-badge&logo=freebsd&logoColor=AB2B28"/>
-<img src="https://img.shields.io/badge/Git-DAC6C2?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/Photoshop-DAC6C2?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
-<img src="https://img.shields.io/badge/CorelDRAW-DAC6C2?style=for-the-badge&logo=coreldraw&logoColor=00A94F"/>
-</p>
+
+## Tech Stack
+
+> Note: These are technologies I have used or am currently learning. This stack will continue to grow. 🚀
+
+### Languages & Fundamentals
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,bash,html,css,markdown" height="44" />
+</div>
+
+### Frontend
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxt,vite,tailwind,bootstrap,materialui" height="44" />
+</div>
+
+### Backend
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,nestjs,django" height="44" />
+</div>
+
+### Database
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" height="44" />
+</div>
+
+### API / Auth / Networking
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=graphql,postman" height="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" alt="OAuth" height="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtokens/jsonwebtokens-original.svg" alt="JWT" height="44" />
+
+</div>
+
+### DevOps / Cloud / Deployment
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,nginx,vercel,netlify,cloudflare" height="44" />
+</div>
+
+### Tools / Editor / Design
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,linux,figma" height="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" height="44" />
+</div>
+
+### Cybersecurity (Learning)
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="Kali Linux" height="44" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" height="44" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" height="44" />
+  <img src="https://cdn.simpleicons.org/metasploit/2E2E2E" alt="Metasploit" height="44" />
+  <img src="https://cdn.simpleicons.org/owasp/000000" alt="OWASP" height="44" />
+  <img src="https://img.icons8.com/color/48/network-card.png" alt="Nmap" height="44" />
+</div>
+
 
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" alt="Elaina"/>
 
