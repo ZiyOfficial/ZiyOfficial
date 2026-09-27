@@ -2,9 +2,8 @@
 
 <p align="center">
 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-<b>ZiyOfficial </b> — FROM INDONESIA
+<b>ZiyOfficial </b> — FROM INDONESIA 🇮🇩
 </p>
-
 
 ---
 
@@ -16,25 +15,67 @@
 
 <img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
 
-
-
-- Name **ZiyOfficial** 
-
+- Name **ZiyOfficial**
 - Live in **West Java, Indonesia**
-
-- Studying [**Back-End Developer & Frontend**](https://dicoding.com),[**UI/UX Figma & C programing**](https://binus.ac.id)
-
+- Studying [**Back-End Developer & Frontend**](https://dicoding.com), [**UI/UX Figma & C programing**](https://binus.ac.id)
 - Familiar with : **GNU/Linux**, **FreeBSD**, **Nodejs**, and **Rilway**
-
-- current age: 15 years
-
+- Current age: 15 years
 - Understand : Indonesia, and English
 
 <br clear="right"/>
 
+---
 
+## 🌐 Connect With Me
 
-## Tech Stack
+<p align="center">
+  <a href="https://t.me/ziyoffc1" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:fahrezi34299@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.tiktok.com/@ziyoffc_id" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://youtube.com/@ziyoffc_id" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://whatsapp.com/channel/0029VbB1vFaAYlULfsTtXU2r" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+### 📢 Social Media & Community
+
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VbB1vFaAYlULfsTtXU2r" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WA Channel"/>
+  </a>
+  <a href="https://www.tiktok.com/@ziyoffc_id" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-@ziyoffc__id-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://t.me/ziyoffcch" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="TG Channel"/>
+  </a>
+  <a href="https://youtube.com/@ziyoffc_id" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-@ziyoffc__id-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://ziyofficial-payment.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/💖_Donate_Now-FF6B6B?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Donate"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
 
 > Note: These are technologies I have used or am currently learning. This stack will continue to grow. 🚀
 
@@ -94,3 +135,36 @@
   <img src="https://cdn.simpleicons.org/owasp/000000" alt="OWASP" height="44" />
   <img src="https://img.icons8.com/color/48/network-card.png" alt="Nmap" height="44" />
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZiyOfficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyOfficial&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyOfficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZiyOfficial&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZiyOfficial&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">
+  <i>"Code with passion, learn without limits." 🚀</i>
+</p>
